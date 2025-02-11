@@ -98,5 +98,3 @@ El programa generará un grafo con nodos aleatorios y mostrará los caminos Hami
 ---
 
 Si deseas mejorar la simulación agregando visualización gráfica o aumentando el número de nodos, puedes modificar los parámetros en la función `generate_graph()` y `generate_edges()`.
-
-¡Esperamos que este proyecto te ayude a entender los principios de la computación con ADN en un entorno digital!
